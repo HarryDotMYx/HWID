@@ -1,0 +1,5 @@
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+colorama>=0.4.6
+cryptography>=41.0.0
+rich>=13.0.0
